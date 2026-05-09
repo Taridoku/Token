@@ -96,4 +96,7 @@ aztec-wallet deploy token@Token \
 
 Replace `**` with your own deployed account alias.
 
-# Token
+## Acknowledgments
+
+S/O @ciaranightingale for the tutorial!
+
