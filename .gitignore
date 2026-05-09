@@ -1,0 +1,19 @@
+# Aztec / Noir build artifacts
+target/
+**/target/
+*.json.bak
+
+# Dependencies and package-manager caches
+node_modules/
+.yarn/
+.pnp.*
+
+# Local environment and logs
+.env
+.env.*
+*.log
+
+# Editor and OS-local files
+.vscode/
+.idea/
+.DS_Store

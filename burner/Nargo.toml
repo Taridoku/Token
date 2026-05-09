@@ -1,0 +1,8 @@
+[package]
+name = "burner"
+type = "contract"
+authors = ["gh0xt"]
+
+[dependencies]
+aztec = { git="https://github.com/AztecProtocol/aztec-nr", tag="v4.2.0", directory="aztec" }
+token = { path = "../token" }

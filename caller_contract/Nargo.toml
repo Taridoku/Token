@@ -1,0 +1,8 @@
+[package]
+name = "caller_contract"
+authors = ["ciaranightingale"]
+compiler_version = ">=0.25.0"
+type = "contract"
+
+[dependencies]
+aztec = { git="https://github.com/AztecProtocol/aztec-nr", tag="v4.2.0", directory="aztec" }

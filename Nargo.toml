@@ -1,0 +1,7 @@
+# AztecToken/Nargo.toml
+[workspace]
+members = [
+  "token",
+  "burner",
+  "caller_contract",
+]
